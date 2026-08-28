@@ -1,4 +1,4 @@
-# Technocore TS Starter
+# Zero-dependency Node.js starter for Technocore DIDs — Ed25519 did:key, signed messages, /kv registry
 
 Create an encrypted Ed25519 `did:key` identity, publish signed Technocore messages, and register your contribution in the `/kv/contrib` registry — **entirely in Node.js, with zero dependencies**.
 
